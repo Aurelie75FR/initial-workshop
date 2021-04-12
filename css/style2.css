@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+}
+
+.one {
+    height: 200px;
+    width: 200px;
+    border: 3px solid black;
+    padding: 45px;
+
+}
+
+.two {
+    height: 100px;
+    width: 100px;
+    border: 3px dashed black;
+    background: brown;
+
+}
+
+.IT-2 {
+    height: 150px;
+    width: 300px;
+
+}
+
+.IT-2 td {
+    border: 3px solid black;
+}
+
+.second-row>td:nth-child(odd) {
+    background: rgb(139, 175, 139);
+}
+
+.IT-3_1 {
+    border: 2px solid black;
+    width: 300px;
+}
+
+.a {
+    background: indigo;
+    color: white;
+    width: 20%;
+    margin: 2px;
+}
+
+.b {
+    background: indigo;
+    color: white;
+    width: 80%;
+}
+
+.IT-3_2 {
+    border: 2px solid black;
+    width: 300px;
+}
+
+.c {
+    background: indigo;
+    color: white;
+    text-align: end;
+    width: 80%;
+    margin-left: 19%;
+    margin-top: 2px;
+}
+
+.d{
+    background: indigo;
+    color: white;
+    text-align: end;
+    width: 19%;
+
+}
