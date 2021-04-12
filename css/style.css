@@ -12,7 +12,7 @@ em {
     color: dodgerblue;
 }
 
-table, td {
+table{
     border: 1px solid black;
     text-align: center;
     padding: 2px;
@@ -21,4 +21,9 @@ table, td {
     color: firebrick;
     font-weight: bold;
     border: 1px solid firebrick;
+}
+.black {
+    color: black;
+    font-weight: bolder;
+    border: 1px solid black;
 }
